@@ -18,7 +18,7 @@ class _hakkindaState extends State<hakkinda> {
                 child: Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: <Widget>[
-                      Text("\n Bu uygulama \n Selçuk üniversite öğrencisi \n 183311057 numaralı Furkan Kozan \n tarafından yapılmıştır, \n uygulamada toplamda 9 adet soru bulunmaktadır \n uygulamayı kullandığınız için teşekkürler ",style: TextStyle(color: Colors.black ,fontWeight: FontWeight.bold,fontSize: 15.0),),
+                      Text("Bu uygulama Dr. Öğretim Üyesi  Ahmet Cevahir Çınar tarafından  yürütülen 3301456 kodlu Mobil uygulama dersi kapsamında 183311057 numaralı öğrenci Furkan Kozan tarafından 30 Nisan 2021 günü yapılmıştır",style: TextStyle(color: Colors.black ,fontWeight: FontWeight.bold,fontSize: 15.0),),
                       Padding(
                         padding: const EdgeInsets.symmetric(vertical: 16.0),
                         child: ElevatedButton(
