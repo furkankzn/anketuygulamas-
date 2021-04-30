@@ -50,7 +50,7 @@ class _soru8State extends State<soru8> {
                 style: TextStyle(fontSize: 20),
               ),
               Text(
-                'Ders planları hedefleri açıktır',
+                'Danışmanım bana gerekli zamanı ayırmaktadır',
                 style: TextStyle(fontSize: 30),
                 textAlign: TextAlign.center,
 

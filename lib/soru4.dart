@@ -45,7 +45,7 @@ class _soru4State extends State<soru4> {
                 style: TextStyle(fontSize: 20),
               ),
               Text(
-                'Ders planları hedefleri açıktır',
+                'Derslerin amaçlarını içeren ders planı öğrencilere verilmektedir',
                 style: TextStyle(fontSize: 30),
                 textAlign: TextAlign.center,
 

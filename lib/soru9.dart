@@ -52,7 +52,7 @@ class _soru9State extends State<soru9> {
                 style: TextStyle(fontSize: 20),
               ),
               Text(
-                'Ders planları hedefleri açıktır',
+                'Pandemi döneminde online eğitim ulaşılabilirdir',
                 style: TextStyle(fontSize: 30),
                 textAlign: TextAlign.center,
 

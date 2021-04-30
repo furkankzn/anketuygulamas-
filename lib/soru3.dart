@@ -43,7 +43,7 @@ class _soru3State extends State<soru3> {
                 style: TextStyle(fontSize: 20),
               ),
               Text(
-                'Ders planları hedefleri açıktır',
+                'Programda yer alan dersler uygulama açısından yeterlidi',
                 style: TextStyle(fontSize: 30),
                 textAlign: TextAlign.center,
 

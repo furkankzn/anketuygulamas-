@@ -47,7 +47,7 @@ class _soru6State extends State<soru6> {
                 style: TextStyle(fontSize: 20),
               ),
               Text(
-                'Ders planları hedefleri açıktır',
+                'Her sınavdan sonra, sınav sonucu ile ilgili öğrencilere geri bildirim verilir',
                 style: TextStyle(fontSize: 30),
                 textAlign: TextAlign.center,
 
